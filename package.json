@@ -1,6 +1,5 @@
 {
   "name": "app-dir",
-  "homepage": "https://bngh883.github.io/DamagecalReact/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -40,5 +39,6 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0"
-  }
+  },
+  "homepage": "https://bngh883.github.io/DamagecalReact/"
 }
