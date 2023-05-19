@@ -9,6 +9,7 @@ function App() {
       <Comp01></Comp01>
       <h3>#2 データバインド</h3>
       <Comp02></Comp02>
+      <h3>#3 プロパティバインド</h3>
       <hr/>
     </div>
   );
