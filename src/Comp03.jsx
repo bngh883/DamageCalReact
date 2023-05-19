@@ -1,6 +1,6 @@
 function Comp03() {
     const photo = {
-        src: "./logo192",
+        src: "./logo192.png",
         alt: "Reactアイコン",
     };
 
