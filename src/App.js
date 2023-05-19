@@ -1,6 +1,7 @@
 import Comp01 from "./Comp01.jsx"
 import Comp02 from "./Comp02.jsx"
-import Comp03 from "./Comp03.jsx";
+import Comp03 from "./Comp03.jsx"
+import Comp04 from "./Comp04.jsx";
 
 function App() {
   return (
@@ -12,6 +13,8 @@ function App() {
       <Comp02></Comp02>
       <h3>#3 プロパティバインド</h3>
       <Comp03></Comp03>
+      <h3>#4 イベント処理</h3>
+      <Comp04></Comp04>
       <hr/>
     </div>
   );
