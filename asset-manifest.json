@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/DamagecalReact/static/css/main.e6c13ad2.css",
-    "main.js": "/DamagecalReact/static/js/main.87b53aa0.js",
+    "main.js": "/DamagecalReact/static/js/main.ab8b5175.js",
     "index.html": "/DamagecalReact/index.html",
     "main.e6c13ad2.css.map": "/DamagecalReact/static/css/main.e6c13ad2.css.map",
-    "main.87b53aa0.js.map": "/DamagecalReact/static/js/main.87b53aa0.js.map"
+    "main.ab8b5175.js.map": "/DamagecalReact/static/js/main.ab8b5175.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.87b53aa0.js"
+    "static/js/main.ab8b5175.js"
   ]
 }
