@@ -21,3 +21,4 @@ function Comp05() {
         </div>
     );
 }
+export default Comp05
