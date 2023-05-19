@@ -3,6 +3,7 @@ import Comp02 from "./Comp02.jsx"
 import Comp03 from "./Comp03.jsx"
 import Comp04 from "./Comp04.jsx"
 import Comp05 from "./Comp05.jsx"
+import Comp06 from "./Comp06.jsx"
 
 function App() {
   return (
@@ -18,6 +19,8 @@ function App() {
       <Comp04></Comp04>
       <h3>#5 表示切替え</h3>
       <Comp05></Comp05>
+      <h3>#6 繰り返し表示</h3>
+      <Comp06></Comp06>
       <hr/>
     </div>
   );
